@@ -1,16 +1,31 @@
-# React + Vite
+# Portfolio Personal - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Alumno
 
-Currently, two official plugins are available:
+**Matias Exequiel Ponce**  
+**Comisión:** C5
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Descripción
 
-## React Compiler
+Portfolio personal desarrollado como Trabajo Práctico N.º 1 de Programación IV.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+El proyecto presenta información sobre mi perfil como desarrollador Junior Full Stack en formación, mis habilidades, proyectos realizados y medios de contacto.
 
-## Expanding the Oxlint configuration
+La aplicación fue desarrollada utilizando React y Vite, aplicando conceptos como componentes, props, arrays, map(), eventos, estado con useState y renderizado condicional.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Tecnologías utilizadas
+
+- React
+- Vite
+- JavaScript
+- JSX
+- CSS
+- Git
+- GitHub
+
+## Instalación
+
+Para instalar las dependencias del proyecto:
+
+```bash
+npm install
